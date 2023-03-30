@@ -1,0 +1,15 @@
+body {
+   background-color: hsl(212, 45%, 89%);  /* the recommended background-color */
+   justify-content: center;
+   align-items: center;
+   min-height: 100vh;
+}
+
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
